@@ -41,10 +41,12 @@ const pages = reactive([
   font-style: normal;
   text-align: center;
 }
+
 .h2 {
   color: green;
   font-size: 50rpx;
 }
+
 navigator {
   color: #1e80ff;
 }
